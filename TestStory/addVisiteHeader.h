@@ -4,7 +4,7 @@
 #import <UIKit/UIKit.h>
 
 @interface addVisiteHeader : UIView
-
+ 
 @property (nonatomic,strong) IBOutlet UIButton * addDeleteButton;
 @property (nonatomic,strong) IBOutlet UIButton * cancelDeleteButton;
 @property (nonatomic,strong) IBOutlet UIButton * validateDeleteButton;
